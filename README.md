@@ -1,6 +1,6 @@
 ## Hey, I'm Gabriel 👋
 
-Full-stack engineer & smart contract dev. I build end-to-end — contracts, backend, frontend. 5 years deep in DeFi, came from the analysis side (lending protocols, vault strategy, smart contract security review), now I ship the things I used to only analyze.
+Full-stack engineer & smart contract dev. I build end-to-end — contracts, backend, frontend. 9 years deep in DeFi, came from the analysis side (lending protocols, vault strategy, smart contract security review), now I ship the things I used to only analyze.
 
 ## Projects
 
